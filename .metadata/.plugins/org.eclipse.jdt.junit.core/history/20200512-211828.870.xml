@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ItemControllerTest" project="Unit-testing" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.unittesting.learn.controller.ItemControllerTest" time="0.416" displayname="ItemControllerTest" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.controller.ItemControllerTest]">
+    <testcase name="dummyItem_basic" classname="com.unittesting.learn.controller.ItemControllerTest" time="0.416" displayname="dummyItem_basic" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.controller.ItemControllerTest]/[test:dummyItem_basic(com.unittesting.learn.controller.ItemControllerTest)]"/>
+  </testsuite>
+</testrun>

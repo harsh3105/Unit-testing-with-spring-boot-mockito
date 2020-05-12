@@ -1,0 +1,6 @@
+package com.unittesting.learn;
+
+@RestController
+public class HelloWorldController {
+
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HelloWorldControllerTest" project="Unit-testing" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.unittesting.learn.controller.HelloWorldControllerTest" time="0.275" displayname="HelloWorldControllerTest" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.controller.HelloWorldControllerTest]">
+    <testcase name="HelloWorld_basic" classname="com.unittesting.learn.controller.HelloWorldControllerTest" time="0.275" displayname="HelloWorld_basic" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.controller.HelloWorldControllerTest]/[test:HelloWorld_basic(com.unittesting.learn.controller.HelloWorldControllerTest)]"/>
+  </testsuite>
+</testrun>
