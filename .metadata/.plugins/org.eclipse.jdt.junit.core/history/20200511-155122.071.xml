@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SomeBusinessMockTest" project="Unit-testing" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.unittesting.learn.business.SomeBusinessMockTest" time="0.624" displayname="SomeBusinessMockTest" uniqueid="[engine:junit-jupiter]/[class:com.unittesting.learn.business.SomeBusinessMockTest]">
+    <testcase name="calculateSumUsingDataService_one" classname="com.unittesting.learn.business.SomeBusinessMockTest" time="0.021" displayname="calculateSumUsingDataService_one()" uniqueid="[engine:junit-jupiter]/[class:com.unittesting.learn.business.SomeBusinessMockTest]/[method:calculateSumUsingDataService_one()]"/>
+    <testcase name="calculateSumUsingDataService_basic" classname="com.unittesting.learn.business.SomeBusinessMockTest" time="0.592" displayname="calculateSumUsingDataService_basic()" uniqueid="[engine:junit-jupiter]/[class:com.unittesting.learn.business.SomeBusinessMockTest]/[method:calculateSumUsingDataService_basic()]"/>
+    <testcase name="calculateSumUsingDataService_empty" classname="com.unittesting.learn.business.SomeBusinessMockTest" time="0.011" displayname="calculateSumUsingDataService_empty()" uniqueid="[engine:junit-jupiter]/[class:com.unittesting.learn.business.SomeBusinessMockTest]/[method:calculateSumUsingDataService_empty()]"/>
+  </testsuite>
+</testrun>

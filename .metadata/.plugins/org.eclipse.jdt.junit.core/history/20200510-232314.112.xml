@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SomeBusinessTest" project="Unit-testing" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.unittesting.learn.business.SomeBusinessTest" time="0.02" displayname="SomeBusinessTest" uniqueid="[engine:junit-jupiter]/[class:com.unittesting.learn.business.SomeBusinessTest]">
+    <testcase name="calculateSum_basic" classname="com.unittesting.learn.business.SomeBusinessTest" time="0.013" displayname="calculateSum_basic()" uniqueid="[engine:junit-jupiter]/[class:com.unittesting.learn.business.SomeBusinessTest]/[method:calculateSum_basic()]"/>
+    <testcase name="calculateSum_empty" classname="com.unittesting.learn.business.SomeBusinessTest" time="0.002" displayname="calculateSum_empty()" uniqueid="[engine:junit-jupiter]/[class:com.unittesting.learn.business.SomeBusinessTest]/[method:calculateSum_empty()]"/>
+    <testcase name="calculateSum_onevalue" classname="com.unittesting.learn.business.SomeBusinessTest" time="0.005" displayname="calculateSum_onevalue()" uniqueid="[engine:junit-jupiter]/[class:com.unittesting.learn.business.SomeBusinessTest]/[method:calculateSum_onevalue()]"/>
+  </testsuite>
+</testrun>

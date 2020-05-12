@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SomeBusinessMockTest" project="Unit-testing" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.unittesting.learn.business.SomeBusinessMockTest" time="0.324" displayname="SomeBusinessMockTest" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.business.SomeBusinessMockTest]">
+    <testcase name="calculateSumUsingDataService_one" classname="com.unittesting.learn.business.SomeBusinessMockTest" time="0.318" displayname="calculateSumUsingDataService_one" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.business.SomeBusinessMockTest]/[test:calculateSumUsingDataService_one(com.unittesting.learn.business.SomeBusinessMockTest)]"/>
+    <testcase name="calculateSumUsingDataService_basic" classname="com.unittesting.learn.business.SomeBusinessMockTest" time="0.002" displayname="calculateSumUsingDataService_basic" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.business.SomeBusinessMockTest]/[test:calculateSumUsingDataService_basic(com.unittesting.learn.business.SomeBusinessMockTest)]"/>
+    <testcase name="calculateSumUsingDataService_empty" classname="com.unittesting.learn.business.SomeBusinessMockTest" time="0.004" displayname="calculateSumUsingDataService_empty" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.business.SomeBusinessMockTest]/[test:calculateSumUsingDataService_empty(com.unittesting.learn.business.SomeBusinessMockTest)]"/>
+  </testsuite>
+</testrun>

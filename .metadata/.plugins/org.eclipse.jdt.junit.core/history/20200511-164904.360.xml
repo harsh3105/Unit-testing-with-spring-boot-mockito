@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ListMockTest" project="Unit-testing" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.unittesting.learn.business.ListMockTest" time="0.019" displayname="ListMockTest" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.business.ListMockTest]">
+    <testcase name="size_basic" classname="com.unittesting.learn.business.ListMockTest" time="0.011" displayname="size_basic" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.business.ListMockTest]/[test:size_basic(com.unittesting.learn.business.ListMockTest)]"/>
+    <testcase name="returnWithParameter" classname="com.unittesting.learn.business.ListMockTest" time="0.006" displayname="returnWithParameter" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.business.ListMockTest]/[test:returnWithParameter(com.unittesting.learn.business.ListMockTest)]"/>
+    <testcase name="returnDifferentValues" classname="com.unittesting.learn.business.ListMockTest" time="0.002" displayname="returnDifferentValues" uniqueid="[engine:junit-vintage]/[runner:com.unittesting.learn.business.ListMockTest]/[test:returnDifferentValues(com.unittesting.learn.business.ListMockTest)]"/>
+  </testsuite>
+</testrun>
