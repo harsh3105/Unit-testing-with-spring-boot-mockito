@@ -1,0 +1,39 @@
+package com.unittesting.learn.business;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.mockito.Mockito.when;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.junit.MockitoJUnitRunner;
+
+import com.unittesting.learn.data.ItemRepository;
+import com.unittesting.learn.data.SomeDataService;
+import com.unittesting.learn.model.Item;
+
+@RunWith(MockitoJUnitRunner.class)
+public class ItemBusinessServiceTest {
+	
+	@InjectMocks
+	private ItemBusinessService business;
+	
+	@Mock
+	private ItemRepository repo;
+	
+	
+	@Test
+	public void abc() {
+		when(repo.findAll()).thenReturn(
+				Arrays.asList(new Item(2,"item2",10,100),new Item(3,"item3",20,200)));
+		List<Item> items = business.retrieveAllItems();
+		assertEquals(1000,items.get(0).getValue());
+		assertEquals(4000,items.get(1).getValue());
+		
+	}
+
+}

@@ -1107,3 +1107,168 @@
 2020-05-12 23:51:34,477 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-05-12 23:51:34,487 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-12 23:51:34,488 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 13:46:49,575 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 13:46:49,577 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 13:46:49,577 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 13:46:49,584 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 13:46:49,584 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 13:51:35,798 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 13:51:35,799 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 13:51:35,800 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 13:51:35,802 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 13:51:35,802 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 13:52:56,341 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 13:52:56,341 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 13:52:56,342 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 13:52:56,345 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 13:52:56,345 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:42:08,549 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:42:08,553 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:42:08,555 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:42:08,558 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:42:08,558 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:44:27,416 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:44:27,418 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:44:27,419 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:44:27,421 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:44:27,421 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:44:35,003 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:44:35,004 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:44:35,005 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:44:35,007 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:44:35,007 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:45:50,255 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:45:50,257 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:45:50,258 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:45:50,260 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:45:50,260 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:48:20,126 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:48:20,127 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:48:20,128 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:48:20,130 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:48:20,130 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:49:16,480 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:49:16,481 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:49:16,482 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:49:16,483 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:49:16,483 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:55:30,619 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:55:30,621 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:55:30,621 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:55:30,622 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:55:30,622 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:56:18,228 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:56:18,228 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:56:18,228 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:56:18,230 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:56:18,230 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:57:29,691 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:57:29,691 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:57:29,691 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:57:29,693 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:57:29,693 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:58:08,615 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:58:08,615 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:58:08,615 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:58:08,617 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:58:08,617 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:59:49,143 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:49,143 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:59:49,144 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:59:49,145 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:49,145 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 14:59:52,099 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:52,099 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:59:52,099 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:59:52,100 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:52,100 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:00:47,665 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:00:47,665 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:00:47,665 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:00:47,666 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:00:47,666 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:01:01,256 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:01:01,256 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:01:01,256 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:01:01,259 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:01:01,259 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:02:04,239 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:02:04,240 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:02:04,240 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:02:04,241 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:02:04,241 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:02:27,776 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:02:27,776 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:02:27,776 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:02:27,777 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:02:27,777 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:03:07,230 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:03:07,230 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:03:07,230 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:03:07,231 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:03:07,231 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:03:36,184 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:03:36,185 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:03:36,185 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:03:36,186 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:03:36,186 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:03:50,368 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:03:50,369 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:03:50,369 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:03:50,370 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:03:50,370 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:07:34,045 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:34,045 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:07:34,045 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:07:34,046 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:34,046 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:12:49,951 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:12:49,951 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:12:49,952 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:12:49,953 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:12:49,954 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:13:32,907 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:13:32,907 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:13:32,908 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:13:32,908 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:13:32,909 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:25:56,422 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:25:56,423 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:25:56,423 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:25:56,424 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:25:56,424 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:29:42,755 [Worker-185: Launching ItemRepositoryTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:29:42,755 [Worker-185: Launching ItemRepositoryTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:29:42,756 [Worker-185: Launching ItemRepositoryTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:29:42,766 [Worker-185: Launching ItemRepositoryTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:29:42,767 [Worker-185: Launching ItemRepositoryTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:35:26,815 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:35:26,815 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:35:26,815 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:35:26,817 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:35:26,817 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:48:13,680 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:48:13,681 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:48:13,682 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:48:13,684 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:48:13,684 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:48:22,377 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:48:22,377 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:48:22,377 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:48:22,379 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:48:22,379 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:49:48,904 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:49:48,904 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:49:48,905 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:49:48,906 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:49:48,906 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:58:37,737 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:58:37,740 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:58:37,740 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:58:37,741 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:58:37,741 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources
+2020-05-13 15:58:39,342 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:58:39,342 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:58:39,342 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:58:39,343 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:58:39,344 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harshgrover/Desktop/unit-testing-mockito/Unit-testing/src/test/resources

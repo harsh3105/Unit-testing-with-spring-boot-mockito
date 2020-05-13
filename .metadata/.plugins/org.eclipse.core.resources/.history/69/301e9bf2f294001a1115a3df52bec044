@@ -1,0 +1,5 @@
+package com.unittesting.learn.data;
+
+public interface ItemRepository {
+
+}

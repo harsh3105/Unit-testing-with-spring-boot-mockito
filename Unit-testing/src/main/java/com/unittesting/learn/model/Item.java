@@ -16,6 +16,18 @@ public class Item {
 	
 	@Transient
 	private int value;
+	
+	public Item() {
+		
+	}
+
+	public int getValue() {
+		return value;
+	}
+
+	public void setValue(int value) {
+		this.value = value;
+	}
 
 	public Item(int id, String name, int price, int quantity) {
 		this.id  = id;
